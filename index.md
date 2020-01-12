@@ -61,10 +61,6 @@ conferences, sourcing funding from the community and supporting students with in
 involved designing posters for the society, announcing events on our social media pages and
 ensuring the Nigerian students on campus were fully aware of our activities.
 
-## Experience
-`November 2019 - date`
-__UNESCO__, Online volunteer on technology
-
 
 `Nov 2017 - March 2019`
 __Alara Lagos__, Retail Data/Business Analyst.
