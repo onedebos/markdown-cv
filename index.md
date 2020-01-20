@@ -19,11 +19,10 @@ HTML, CSS,SASS,JavaScript, React, Ruby-on-Rails, Ruby.
 
 ### Additional experience with
 
-Materialize CSS, Bootstrap, Using Airbnb Configuration with ESLint for linting
-
-### Experience writing tests using
-
-Rspec and Jest
+- Materialize CSS, Bootstrap
+- Using Airbnb Configuration with ESLint and prettier for writing well formatted code
+- Writing tests using Rspec and Jest
+- Deployment using netlify and heroku
 
 ## Education
 
