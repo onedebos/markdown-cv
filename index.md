@@ -6,27 +6,31 @@ Full stack Web Developer
 <a href="adebola.niran@gmail.com">adebola.niran@gmail.com</a>
 | <a href="https://github.com/onedebos">Github</a>
 | <a href="https://onedebos.wordpress.com">Blog</a>
+  | <a href="https://onedebos.github.io/my-portfolio/">Portfolio</a>
 </div>
 
 
-## Currently
+## Recently
 
-Completing a full stack web development programme at Microverse
+Completed a full stack web development programme at Microverse.
 
-### Experience writing in
+### Experience building with
 
 HTML, CSS,SASS,JavaScript, React, Ruby-on-Rails, Ruby.
 
 ### Additional experience with
 
 - Materialize CSS, Bootstrap
-- Using Airbnb Configuration with ESLint and prettier for writing well formatted code
+- Building APIs with Rails
 - Writing tests using Rspec and Jest
 - Deployment using netlify and heroku
 
+### Projects
+![Mentally - built with Rails API and React](https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582185345/personal-portfolio/app_screenshot_mvkavi.png)
+
 ## Education
 
-`July 2019 - December 2019`
+`July 2019 - February 2020`
 __Microverse Coding Bootcamp, Remote.__
 - Learnt Ruby on Rails, Ruby, React, Javascript, Data structures amd Algorithms, HTML and CSS
 
