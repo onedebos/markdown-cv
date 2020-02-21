@@ -6,28 +6,34 @@ Full stack Web Developer
 <a href="adebola.niran@gmail.com">adebola.niran@gmail.com</a>
 | <a href="https://github.com/onedebos">Github</a>
 | <a href="https://onedebos.wordpress.com">Blog</a>
+  | <a href="https://onedebos.github.io/my-portfolio/">Portfolio</a>
 </div>
 
 
-## Currently
+## Recently
 
-Completing a full stack web development programme at Microverse
+Completed a full stack web development programme at Microverse.
 
-### Experience writing in
+### Experience building with
 
 HTML, CSS,SASS,JavaScript, React, Ruby-on-Rails, Ruby.
 
 ### Additional experience with
 
-Materialize CSS, Bootstrap, Using Airbnb Configuration with ESLint for linting
+- Materialize CSS, Bootstrap
+- Building APIs with Rails
+- Writing tests using Rspec and Jest
+- Deployment using netlify and heroku
 
-### Experience writing tests using
-
-Rspec and Jest
+### Projects
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Mentally - Built with Rails API and React" src="https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582185345/personal-portfolio/app_screenshot_mvkavi.png"> [Built with Rails API and React](https://awesome-kare-c984ee.netlify.com/) |  <img width="1604" alt="BookStr - built with React and Redux" src="https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582185339/personal-portfolio/app2_ry23fm.png"> [Built with React and Redux](https://redux-bookstr.herokuapp.com/) |<img width="1604" alt="Weatherify" src="https://res.cloudinary.com/onedebeos/image/upload/q_auto:best/v1582185364/personal-portfolio/app4_hoiwib.png"> [Bookstore - Built with JS fetch API and Webpack](https://sleepy-wing-03ddf5.netlify.com/)|
+|<img width="1604" alt="MicroFacebook" src="https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582245547/personal-portfolio/Screen_Shot_2020-02-21_at_01.38.39_cef8dh.png"> [MicroFacebook - with fb auth - Built with Rails](https://micro-social.herokuapp.com/) |  <img width="1604" alt="Modern Home" src="https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582185341/personal-portfolio/app1_lmoopo.png"> [Landing Page - Built with HTML and CSS](https://onedebos.github.io/portfolio-site-1/)|<img width="1604" alt="TicTacToe" src="https://res.cloudinary.com/onedebeos/image/upload/f_auto,q_auto/v1582245511/personal-portfolio/Screen_Shot_2020-02-21_at_01.37.35_lqntqz.png"> [TicTacToe - HTML, CSS, JS](https://zen-beaver-6debcc.netlify.com)|
 
 ## Education
 
-`July 2019 - December 2019`
+`July 2019 - February 2020`
 __Microverse Coding Bootcamp, Remote.__
 - Learnt Ruby on Rails, Ruby, React, Javascript, Data structures amd Algorithms, HTML and CSS
 
@@ -88,6 +94,6 @@ __Jumia Nigeria__, Vendor Support Analyst.
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: February 2020 -->
 
 
